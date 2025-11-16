@@ -6,7 +6,8 @@ Before writing any code, add your pseudocode at the top of your file as a multi-
 
 Your output should follow the same general format as the example below:
 
-Enter first score: ...
+Enter first score: ... first_score = float(input("Enter the first score: "))
+                        
 
 Enter second score: ...
 
