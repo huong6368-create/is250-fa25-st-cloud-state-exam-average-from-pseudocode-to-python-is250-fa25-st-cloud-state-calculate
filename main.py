@@ -1,6 +1,6 @@
 """
 Full Name: Huong Chann Zenteno
-Class-Section:
+Class-Section: IS 250 - 01
 Assignment Title:
 Submission Date:
 """
